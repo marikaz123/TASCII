@@ -435,7 +435,7 @@ _o    DB '     **  TASCII ver. 3.0  **',NUL
 
 ;SKLADNIA
 stx   DB "TASCII v3.0 ** TABLICA ASCII ** (c)1996 'marikaz'",CR,LF,CR,LF
-      DB '  TASC.EXE [/A[:]nn] [/B[:]nn] [/F[:]nn]',CR,LF,CR,LF
+      DB '  TASCII.EXE [/A[:]nn] [/B[:]nn] [/F[:]nn]',CR,LF,CR,LF
       DB '/A[:]  Kolor wyroznionych napisow.',CR,LF
       DB '/B[:]  Kolor tla.',CR,LF
       DB '/F[:]  Kolor napisow.',CR,LF
