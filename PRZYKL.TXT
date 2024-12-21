@@ -1,10 +1,10 @@
-::Przykladowe schematy kolorow
+::Przykladowe zestawy kolorow
 
 ::BLUE
-::tascii /b:1 /f:11 /a:14
-
+::tascii /b:1 /f15 /a:14
 ::GREY
-::tascii /b8 /f:7 /a:15
-
+tascii /b8 /f15 /a:14
+::GREEN
+::tascii /b0 /f:2 /a:10
 ::MAGENTA
-tascii /b:0 /f:5 /a:13
+::tascii /b:0 /f:5 /a:13
